@@ -1,0 +1,42 @@
+_repo: Red-Fox--13-The-Story-of-His-Adventurous-Career-in-the-Ringwaak-Wilds-and-of-His-Final-Triump__46005
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Bull, Charles Livingston
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '9742'
+    url: http://www.gutenberg.org/2009/agents/9742
+covers:
+- cover_type: archival
+  image_path: 46005-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Roberts, Charles G. D., Sir
+    aliases:
+    - Roberts, Sir Charles George Douglas
+    - Roberts, Charles George Douglas, Sir
+    birthdate: 1860
+    deathdate: 1943
+    gutenberg_agent_id: '2272'
+    url: http://www.gutenberg.org/2009/agents/2272
+    wikipedia: http://en.wikipedia.org/wiki/Charles_G._D._Roberts
+description: As part of Animals of British Columbia (BC), the Interactive Broadcasting
+  Corporation presents information about the red fox of the order Vulpes vulpes. Information
+  about the physical characteristics, distribution, breeding patterns, diet, and tracks
+  of the red fox is available. A photographic image of the red fox is provided.
+gutenberg_issued: '2014-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46005'
+  lccn: '05032714'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Red fox -- Anecdotes'
+- !lcc 'QL'
+title: "Red Fox\r\nThe Story of His Adventurous Career in the Ringwaak Wilds and of\
+  \ His Final Triumph over the Enemies of His Kind"
+url: http://www.gutenberg.org/ebooks/46005
